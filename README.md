@@ -1,3 +1,5 @@
-## Vou me aprofundar em AWS/TERRAFORM
+# Vou me aprofundar em AWS/TERRAFORM
 
-* Com linhas de comando posso criar e gerenciar maquinas ou estancias em servidores
+## Com linhas de comando posso criar e gerenciar maquinas ou estancias em servidores
+
+* INICIO
