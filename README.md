@@ -5,4 +5,3 @@
 * INICIO
 
 Estudando dentro da ORACLE
-Linha
